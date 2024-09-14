@@ -23,6 +23,6 @@ Hey,
 
 ## 📌 __**My Tech Stack**__
 
-![My Tech](https://skillicons.dev/icons?i=nodejs,discordjs)]
+![My Tech](https://skillicons.dev/icons?i=nodejs,discordjs)
 
 ![Furtifoppe State Github](https://github-readme-stats.vercel.app/api?username=furtifoppe)
