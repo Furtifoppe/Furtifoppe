@@ -1,16 +1,28 @@
-## Hi there 👋
+## 💻 Introduce
+Hey,
+**I'm Furtifoppe**, I'm a Multi-skilled developer French, I develop a bit of everything and nothing, I mainly develop to have fun and discover new ways of doing what I do.
 
-<!--
-**Furtifoppe/Furtifoppe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 📌 My IDE 
+![My Language](https://skillicons.dev/icons?i=vscode,visualstudio)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔌​ When I'm AFK**__
+
+![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)
+![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+
+## 📌 __**My Language**__
+
+[![My Language](https://skillicons.dev/icons?i=javascript,java,lua,dart,html,css,php,flutter)](https://skillicons.dev)
+
+## 📌 __**My DataBase**__
+
+[![My Database](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
+
+## 📌 __**My Tech Stack**__
+
+[![My Tech](https://skillicons.dev/icons?i=nodejs,discordjs)](https://skillicons.dev)
+
+[![Furtifoppe State Github](https://github-readme-stats.vercel.app/api?username=furtifoppe)](https://github.com/furtifoppe/github-readme-stats)
