@@ -19,7 +19,7 @@ Hey,
 
 ## 📌 __**My DataBase**__
 
-![My Database](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
+![My Database](https://skillicons.dev/icons?i=mysql,sqlite)
 
 ## 📌 __**My Tech Stack**__
 
