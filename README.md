@@ -6,7 +6,7 @@ Hey,
 ### 📌 My IDE 
 ![My Language](https://skillicons.dev/icons?i=vscode,visualstudio)
 
-## 🔌​ When I'm AFK**__
+## 🔌​ __**When I'm AFK**__
 
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
