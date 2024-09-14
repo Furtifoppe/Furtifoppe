@@ -15,14 +15,14 @@ Hey,
 
 ## 📌 __**My Language**__
 
-[![My Language](https://skillicons.dev/icons?i=javascript,java,lua,dart,html,css,php,flutter)](https://skillicons.dev)
+![My Language](https://skillicons.dev/icons?i=javascript,java,lua,dart,html,css,php,flutter)
 
 ## 📌 __**My DataBase**__
 
-[![My Database](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
+![My Database](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
 
 ## 📌 __**My Tech Stack**__
 
-[![My Tech](https://skillicons.dev/icons?i=nodejs,discordjs)](https://skillicons.dev)
+![My Tech](https://skillicons.dev/icons?i=nodejs,discordjs)]
 
-[![Furtifoppe State Github](https://github-readme-stats.vercel.app/api?username=furtifoppe)](https://github.com/furtifoppe/github-readme-stats)
+![Furtifoppe State Github](https://github-readme-stats.vercel.app/api?username=furtifoppe)
