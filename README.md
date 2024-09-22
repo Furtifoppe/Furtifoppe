@@ -3,7 +3,7 @@ Hey,
 **I'm Furtifoppe**, I'm a Multi-skilled developer French, I develop a bit of everything and nothing, I mainly develop to have fun and discover new ways of doing what I do.
 
 
-### 📌 __**My IDE**__
+## 📌 __**My IDE**__
 ![My Language](https://skillicons.dev/icons?i=vscode,visualstudio)
 
 ## 🔌​ __**When I'm AFK**__
