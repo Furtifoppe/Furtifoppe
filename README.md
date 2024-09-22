@@ -15,7 +15,7 @@ Hey,
 
 ## 📌 __**My Language**__
 
-![My Language](https://skillicons.dev/icons?i=javascript,java,lua,dart,html,css,php,flutter)
+![My Language](https://skillicons.dev/icons?i=javascript,java,lua,dart,html,css,php)
 
 ## 📌 __**My DataBase**__
 
@@ -23,6 +23,6 @@ Hey,
 
 ## 📌 __**My Tech Stack**__
 
-![My Tech](https://skillicons.dev/icons?i=nodejs,discordjs)
+![My Tech](https://skillicons.dev/icons?i=nodejs,discordjs,flutter)
 
 ![Furtifoppe State Github](https://github-readme-stats.vercel.app/api?username=furtifoppe)
