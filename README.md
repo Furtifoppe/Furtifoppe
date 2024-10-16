@@ -15,7 +15,7 @@ Hey,
 
 ## 📌 __**My Language**__
 
-![My Language](https://skillicons.dev/icons?i=javascript,java,lua,dart,html,css,php)
+![My Language](https://skillicons.dev/icons?i=javascript,java,lua,dart,html,css,php,typescript)
 
 ## 📌 __**My DataBase**__
 
