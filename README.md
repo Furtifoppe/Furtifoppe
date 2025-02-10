@@ -19,10 +19,10 @@ Hey,
 
 ## 📌 __**My DataBase**__
 
-![My Database](https://skillicons.dev/icons?i=mysql,sqlite,mariadb)
+![My Database](https://skillicons.dev/icons?i=mysql,sqlite)
 
 ## 📌 __**My Tech Stack**__
 
-![My Tech](https://skillicons.dev/icons?i=nodejs,discordjs,flutter)
+![My Tech](https://skillicons.dev/icons?i=nodejs,discordjs,flutter,boostrap)
 
 ![Furtifoppe State Github](https://github-readme-stats.vercel.app/api?username=furtifoppe)
