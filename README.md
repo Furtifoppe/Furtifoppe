@@ -24,5 +24,6 @@ Hey,
 ## 📌 __**My Tech Stack**__
 
 ![My Tech](https://skillicons.dev/icons?i=nodejs,discordjs,flutter,bootstrap,symfony,react,tailwind,vite)
+![VM](https://skillicons.dev/icons?i=docker,vmware)
 
 ![Furtifoppe State Github](https://github-readme-stats.vercel.app/api?username=furtifoppe)
